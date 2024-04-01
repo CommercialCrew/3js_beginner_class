@@ -16,3 +16,6 @@
 ---
 
 ![003_4](https://github.com/CommercialCrew/3js_beginner_class/assets/101386134/2a6dbd1c-7ca5-4abf-b729-f0a75016c536)
+
+4
+![123](https://github.com/CommercialCrew/3js_beginner_class/assets/101386134/6491ebef-7e5c-414b-beac-b55161473904)
