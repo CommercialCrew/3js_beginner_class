@@ -75,3 +75,9 @@
 ---
 
 ![05_4_6](https://github.com/CommercialCrew/3js_beginner_class/assets/101386134/b59ac482-7681-4ca2-8136-cfd86c8d8a41)
+
+7
+![07](https://github.com/CommercialCrew/3js_beginner_class/assets/101386134/44f1de1a-7ff5-43f7-8bed-a1d24064a7b1)
+
+8
+![08](https://github.com/CommercialCrew/3js_beginner_class/assets/101386134/c75f438b-2155-45ad-b9f6-577c051a0c88)
